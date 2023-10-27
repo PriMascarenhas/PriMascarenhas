@@ -9,12 +9,20 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriMascarenhas&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<p>Baiana apaixonada pelo conhecimento em si, e pela ideia de como o conhecimento pode transformar a vida das pessoas em todos os âmbitos da vida.
+Atualmente, estou buscando conhecimentos sobre investimentos na área financeira, autoconhecimento através da espiritualidade e astrologia, e estou cada vez mais apaixonada pelo conhecimento que estou construindo na tecnologia.
+
+Estou em fase de transição de carreira para trabalhar na área de Desenvolvimento Fullstack, frot-end ou back-end.
+
+Na minha carreira anterior como compradora, exerci diversas atividades na área administrativa interagindo com diversos stackholders. Acredito que isso e toda a minha experiência será de grande relevância para a minha carreira como Dev.</p>
+
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PriMascarenhas&theme=gotham)
 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PriMascarenhas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
 
 <div align="center">  
 <a href="www.instagram.com" target="pri_mascarenhass"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -48,7 +56,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{PriMascarenhas}/count.svg" /></p> 
 <br></div>
   
 
